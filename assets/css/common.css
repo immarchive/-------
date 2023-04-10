@@ -1,0 +1,22 @@
+.blind{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    margin: -1px;
+}
+
+.hidden{
+    overflow: hidden;
+}
+
+.headline {
+    padding: 50px 16px 11px;
+    font-size: 20px;
+    line-height: 29px;
+    color: #212326;
+    letter-spacing: -0.05em;
+    font-weight: 700;
+}
+
